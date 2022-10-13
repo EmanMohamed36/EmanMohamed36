@@ -1,11 +1,9 @@
 
-<div id="header" align="center">
-  <img src="https://c.tenor.com/H_loBGkJiMYAAAAd/code-daddycoolcool.gif" width="300"/>
-</div>
-
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <h1 align="center">Hi 👋, I'm Eman Mohamed</h1>
 <h3 align="center">Competitive Programming Student</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="emanmohamed" /> </p>
@@ -15,7 +13,9 @@
 - 🌱 I’m currently learning **computer science**
 
 - 📫 How to reach me **emanmoheemd2002@gmail.com**
+- **Hacktoperfest Badges**
 
+[![@emymohamed's Holopin board](https://holopin.me/emymohamed)](https://holopin.io/@emymohamed)
 
 
 <h3 align="left">Connect with me:</h3>
