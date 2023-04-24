@@ -15,7 +15,7 @@
 - I'm interested in **solving problems**
 - I'm writing 50 WPM using **Touch typing** 
 - 📫 How to reach me **emanmoheemd2002@gmail.com**
-- For more info look at my <a href="https://drive.google.com/drive/u/0/my-drive" target="blank">Resume</a>
+- For more info look at my <a href="https://drive.google.com/file/d/1_vv1iq2UWYjrTirdvh5L_rcXp_GPA7kU/view?usp=sharing" target="blank">Resume</a>
 
 <hr>
 <h3 align = "center"> Never Give Up<br> don't worry ,when you fall down,you won't start from scratch again</h3>
