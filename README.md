@@ -45,3 +45,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanMohamed36&show_icons=true&locale=en" alt="EmanMohamed36" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmanMohamed36&" alt="EmanMohamed36" /></p>
+
+## MY Contribution Graph:
+![snake gif](https://github.com/EmanMohamed36/EmanMohamed36/blob/output/github-contribution-grid-snake.gif)
+
