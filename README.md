@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **computer science**
 - **I win over the bugs or mostly they beat me 🐞**
 - I'm interested in **solving problems**
-- I'm writing 50 WPM using **Touch typing** 
+- I'm writing 60 WPM using **Touch typing** 
 - 📫 How to reach me **emanmoheemd2002@gmail.com**
 - For more info look at my <a href="https://drive.google.com/file/d/1_vv1iq2UWYjrTirdvh5L_rcXp_GPA7kU/view?usp=sharing" target="blank">Resume</a>
 
