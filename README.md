@@ -14,7 +14,7 @@
 - **I win over the bugs or mostly they beat me 🐞**
 - I'm interested in **solving problems**
 - I'm writing 60 WPM using **Touch typing**
-- 💬 Ask me about Backend, NodeJS, typescript, Javascript, ...etc and I will Google it, I know nothing**
+- 💬 Ask me about Backend, NodeJS, typescript, Javascript, ...etc and I will Google it, I know nothing
 - 📫 How to reach me **emanmoheemd2002@gmail.com**
 - For more info look at my <a href="https://drive.google.com/file/d/1_vv1iq2UWYjrTirdvh5L_rcXp_GPA7kU/view?usp=sharing" target="blank">Resume</a>
 
